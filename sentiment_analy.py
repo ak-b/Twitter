@@ -5,7 +5,7 @@ from textblob import textblob
 
 class TwitterClient(object):
 	'''
-	Generic Twitter Class for Sebtiment Analysis
+	Generic Twitter Class for Sentiment Analysis
 	'''
 	def __init__(self):
 		'''
